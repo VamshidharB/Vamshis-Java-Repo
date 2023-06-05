@@ -14,7 +14,7 @@ class Assignment4_2_2 extends Assignment4_2_1 {
         str2="Child instance updated with the overloaded constructor";
         System.out.println("child instance : "+str2);
     }
-    public static void main(){
+    public static void main(String[] args){
 
         Assignment4_2_1 o1= new Assignment4_2_1();
         Assignment4_2_2 o2= new Assignment4_2_2();
