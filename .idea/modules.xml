@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaBackendTraningRepo.iml" filepath="$PROJECT_DIR$/.idea/JavaBackendTraningRepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj 7/proj 7.iml" filepath="$PROJECT_DIR$/proj 7/proj 7.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj1/proj1.iml" filepath="$PROJECT_DIR$/proj1/proj1.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj2/proj2.iml" filepath="$PROJECT_DIR$/proj2/proj2.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj3.2/proj3.2.iml" filepath="$PROJECT_DIR$/proj3.2/proj3.2.iml" />
@@ -15,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/proj5/proj5.iml" filepath="$PROJECT_DIR$/proj5/proj5.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj6/proj6.iml" filepath="$PROJECT_DIR$/proj6/proj6.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj6/proj7/proj7.iml" filepath="$PROJECT_DIR$/proj6/proj7/proj7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj8/proj8.iml" filepath="$PROJECT_DIR$/proj8/proj8.iml" />
     </modules>
   </component>
 </project>
